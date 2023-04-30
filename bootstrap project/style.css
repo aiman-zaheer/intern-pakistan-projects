@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+
+.pic{
+    width: 100%;
+}
+.home-image{
+    width: 70%;
+    height: 280px;
+    padding-top: 100px;
+
+}
+.logo{
+    width: 25%;
+    height: 60px;
+}
+.btn{
+    width:100%;
+}
+
+.box1{
+    background-color: #e9ecef;
+}
+.box2{
+    background-color: white;
+    
+}
+.page2{
+    background-color: #e9ecef;
+    height: 100vh;
+}
+.page2-box2{
+    background-color: white;
+    
+    height: 90%;
+
+}
+.page3{
+    width: 100vw;
+    background-color: #e9ecef;
+    height: 100vh;
+}
+
+.box4{
+    background-color: white;
+    height: 100vh;
+}
